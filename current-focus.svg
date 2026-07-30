@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="246" viewBox="0 0 1000 246" role="img" aria-labelledby="title desc">
+  <title id="title">Current Focus</title>
+  <desc id="desc">Vibe Coding, UI UX, Agentic AI, and Workflow Optimization.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#0f1622"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: Inter, "Segoe UI", Arial, sans-serif; }
+    .card { fill: #0f151e; stroke: #30363d; stroke-width: 1.2; }
+    .title { fill: #f0f6fc; font-size: 18px; font-weight: 700; }
+    .description { fill: #8b949e; font-size: 13px; }
+    .focus-icon { fill: none; stroke: #58a6ff; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+  <rect x="1" y="1" width="998" height="244" rx="13" fill="url(#panel)" stroke="#21262d"/>
+  <g transform="translate(407 37)" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round">
+    <circle cx="0" cy="0" r="10"/>
+    <circle cx="0" cy="0" r="4"/>
+    <path d="M0 -17V-11 M0 11V17 M-17 0H-11 M11 0H17"/>
+  </g>
+  <text x="435" y="44" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="750">Current Focus</text>
+  <path d="M22 62H978" stroke="#21262d"/>
+  
+      <g>
+        <rect x="21" y="79" width="232" height="146" rx="10" class="card"/>
+        <g transform="translate(137 112)" class="focus-icon">
+      <rect x="-18" y="-13" width="36" height="26" rx="4"/>
+      <path d="M-8 -5 -13 0 -8 5 M8 -5 13 0 8 5 M3 -8 -3 8"/></g>
+        <text x="137" y="159" text-anchor="middle" class="title">Vibe Coding</text>
+        <text x="137" y="188" text-anchor="middle" class="description">
+          <tspan x="137" dy="0">Turning ideas into</tspan>
+          <tspan x="137" dy="19">working products quickly.</tspan>
+        </text>
+      </g>
+      <g>
+        <rect x="263" y="79" width="232" height="146" rx="10" class="card"/>
+        <g transform="translate(379 112)" class="focus-icon">
+      <rect x="-15" y="-15" width="25" height="25" rx="4"/>
+      <path d="M-8 8 11 -11 16 -6 -3 13 -11 15Z"/></g>
+        <text x="379" y="159" text-anchor="middle" class="title">UI/UX</text>
+        <text x="379" y="188" text-anchor="middle" class="description">
+          <tspan x="379" dy="0">Clear interfaces and</tspan>
+          <tspan x="379" dy="19">intuitive user journeys.</tspan>
+        </text>
+      </g>
+      <g>
+        <rect x="505" y="79" width="232" height="146" rx="10" class="card"/>
+        <g transform="translate(621 112)" class="focus-icon">
+      <circle cx="0" cy="-12" r="5"/>
+      <circle cx="-14" cy="11" r="5"/>
+      <circle cx="14" cy="11" r="5"/>
+      <path d="M-3 -7 -11 6 M3 -7 11 6 M-8 11H8"/></g>
+        <text x="621" y="159" text-anchor="middle" class="title">Agentic AI</text>
+        <text x="621" y="188" text-anchor="middle" class="description">
+          <tspan x="621" dy="0">AI agents that act</tspan>
+          <tspan x="621" dy="19">across real workflows.</tspan>
+        </text>
+      </g>
+      <g>
+        <rect x="747" y="79" width="232" height="146" rx="10" class="card"/>
+        <g transform="translate(863 112)" class="focus-icon">
+      <path d="M-18 -8H8 M3 -14 10 -8 3 -2 M18 8H-8 M-3 2 -10 8 -3 14"/>
+      <circle cx="-18" cy="-8" r="3"/>
+      <circle cx="18" cy="8" r="3"/></g>
+        <text x="863" y="159" text-anchor="middle" class="title">Workflow Optimization</text>
+        <text x="863" y="188" text-anchor="middle" class="description">
+          <tspan x="863" dy="0">Smarter processes</tspan>
+          <tspan x="863" dy="19">through automation.</tspan>
+        </text>
+      </g>
+</svg>
