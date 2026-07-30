@@ -4,7 +4,7 @@
 -->
 
 <p>
-  <img align="left" width="49%" src="./assets/identity.svg" alt="Alexander Polnau — Digital Business Management" />
+  <img align="left" width="49%" src="./identity.svg" alt="Alexander Polnau — Digital Business Management" />
   <img align="right" width="49%" src="./ascii.svg" alt="Animated ASCII portrait of Alexander Polnau" />
 </p>
 
@@ -22,12 +22,12 @@
 
 <br />
 
-<img width="100%" src="./assets/current-focus.svg" alt="Current Focus: Vibe Coding, UI/UX, Agentic AI and Workflow Optimization" />
+<img width="100%" src="./current-focus.svg" alt="Current Focus: Vibe Coding, UI/UX, Agentic AI and Workflow Optimization" />
 
 <br />
 
-<img width="100%" src="./assets/tech-stack.svg" alt="Tech Stack: Frontend, Backend, Databases, AI and Tools" />
+<img width="100%" src="./tech-stack.svg" alt="Tech Stack: Frontend, Backend, Databases, AI and Tools" />
 
 <br />
 
-<img width="100%" src="./assets/footer-wave.svg" alt="" />
+<img width="100%" src="./footer-wave.svg" alt="" />
